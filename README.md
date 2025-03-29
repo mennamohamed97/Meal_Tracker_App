@@ -26,7 +26,7 @@ The Meal Tracker App is a simple and intuitive mobile application that allows us
 ## 🎥 Demo  
 🔗 [Watch the Demo](https://drive.google.com/file/d/1so451X_0O_l5tb6pg3726EUioJM_oox2/view?usp=sharing)
 
-🔗 [Watch the new features Demo](https://drive.google.com/file/d/1CEFnnzv--VBuNPb4a6Tc_6HOCfJcmI7A/view?usp=sharing)
+🔗 [Watch the new features Demo](https://drive.google.com/file/d/1t6PXFLhtor7-QhywsoeAwOlp0VPOU2o0/view?usp=sharing)
  
 ## 🔧 Built with
 
